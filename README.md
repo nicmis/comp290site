@@ -1,1 +1,1 @@
-I am making this project for the course COMP290 which attempts to build my skills in command tools and creating and pushing this file is good practice for me to use git.
+This project is for the COMP290 tools course to practice using `git` in a command line interface.
